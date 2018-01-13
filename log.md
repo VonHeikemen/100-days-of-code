@@ -54,4 +54,12 @@ Fue un buen día
 
 **Pensamientos**:  Me asignaron un proyecto en el trabajo que está hecho con angular 1, pero quiero saber si puedo "modernizar" su estructura usando neutrino (que en realidad usa webpack para hacer el trabajo pesado). Hasta ahora ha sido algo incómodo pero definitivamente es posible.
 
-**Enlaces al trabajo hecho**: [Log 100-days-of-code](https://github.com/VonHeikemen/100-days-of-code)
+**Enlaces al trabajo hecho**: [Log 100-days-of-code](https://github.com/VonHeikemen/100-days-of-code
+
+  ### Día 6: 12 de Mes, 2018
+
+  **Progreso del día**: Terminé la sección del curso que trata de los métodos básicos de Firebase.
+
+  **Pensamientos**: Firebase parece una solución genial para trabajar con aplicaciones que necesiten capacidad para responder en tiempo ante cambios en unos datos, pero trabajar con arreglos es incómodo.
+
+  **Enlaces al trabajo hecho**: N/A
