@@ -63,3 +63,99 @@ Fue un buen día
 **Pensamientos**: Firebase parece una solución genial para trabajar con aplicaciones que necesiten capacidad para responder en tiempo ante cambios en unos datos, pero trabajar con arreglos es incómodo.
 
 **Enlaces al trabajo hecho**: N/A
+
+### Día 7: 13 de Enero, 2018
+
+**Progreso del día**: Comencé la integración de Firebase con Redux en el proyecto del curso.
+
+**Pensamientos**: Hizo falta la instalación de otra librería para integrar completamente Redux y Firebase, pero muy natural la integración. Guardar persistir los cambios en la base de datos se convirtió sólo en un paso extra, sin tener que mover la lógica que ya estaba establecida.
+
+**Enlaces al trabajo hecho**: N/A
+
+### Día 8: 14 de Enero, 2018
+
+**Progreso del día**: Heroku me dio problemas con las variables de entorno. Resulta que el buildpack que configuré para la aplicación sólo puede utilizar las variables de entorno con el prefijo "REACT_APP_". Al final la integración con Firebase resultó exisitosa.
+
+**Pensamientos**:  Ahora, en la sección del curso hubo varios videos en los que se mezclaban pruebas unitarias y pruebas de integración, eso no me gustó. Debería haber una clara separación. El instructor intentaba evaluar con las pruebas cosas que estaban más allá de su control, como resultado cada prueba era complicada y tenía responsabilidades mezcladas.
+
+**Enlaces al trabajo hecho**: [Expensify-demo](https://github.com/VonHeikemen/expensify-demo/commit/fa2ac8ff5678e0e9d25fa29e34ca8719452bce25) (último commit del día)
+
+### Día 9: 15 de Enero, 2018
+
+**Progreso del día**: Comencé con la autenticación mediante Firabase. Avancé con la autenticación de usuario en el inicio de sesión.
+
+**Pensamientos**: El proceso de autenticación no me convenció del todo. Intenté encontrar una mejor manera, pero tristemente fallé. Aún así pienso que debe haber una mejor forma de manejar la sesión.
+
+**Enlaces al trabajo hecho**: N/A
+
+### Día 10: 16 de Enero, 2018
+
+**Progreso del día**: Creé los componentes para integrar la funcionalidad de rutas privadas en la aplicación. Y con eso termino la integración completa con Firabase y la sección del curso.
+
+**Pensamientos**: Aquí lo que no me convence de React es el hecho de que para todo la respuesta es un componente. ¿Quieres agregar alguna funcionalidad? Usa un componente de orden mayor. Es todo. Todo se reduce a eso. Incluso si no tiene sentido que algo sea un componente, debe ser un componente. No me gusta eso.
+
+**Enlaces al trabajo hecho**: [Expensify-demo](https://github.com/VonHeikemen/expensify-demo/commit/fe5d630abd1b29f085d0396c4ac60ed1c1047489) (último commit del día)
+
+### Día 11: 17 de Enero, 2018
+
+**Progreso del día**: Empecé la sección del curso. Sólo pude ver dos videos. También me desvié un poco y vi unos videos de unas conferencias sobre Elm.
+
+**Pensamientos**: Elm como herramienta parece genial. Voy a aprender Elm.
+
+**Enlaces al trabajo hecho**: N/A
+
+### Día 12: 18 de Enero, 2018
+
+**Progreso del día**: Avancé con los estilos en la aplicación usando SASS.
+
+**Pensamientos**: Descubrí los beneficios de usar una metodología como el BEM para manejar los estilos. Realmente útil.  
+
+**Enlaces al trabajo hecho**: N/A
+
+### Día 13: 19 de Enero, 2018
+
+**Progreso del día**: Agregué el resto de los estilos a la aplicación.
+
+**Pensamientos**: Ahora puedo decir que sé React (o por lo menos que puedo buscar en google cosas relacionadas a React).
+
+**Enlaces al trabajo hecho**: N/A
+
+### Día 14: 20 de Enero, 2018
+
+**Progreso del día**: Decidí mi próximo objetivo. Terminaré los proyectos de FreeCodeCamp y reclamaré el certificado Frontend. Empecé con la página tributo. También terminé de ver el resto de los videos del curso. Publiqué la aplicación terminada en Heroku.
+
+**Pensamientos**: Me tomó tiempo pero decidí qué tema y qué forma tendrá la página. Aunque no avancé mucho, al menos sé cómo proseguir.
+
+**Enlaces al trabajo hecho**: [Expensify Live](https://desolate-savannah-67115.herokuapp.com)
+
+### Día 15: 21 de Enero, 2018
+
+**Progreso del día**: Terminé la página tributo. Algo así. Tiene todo el contenido, la forma. Faltan los media queries
+
+**Pensamientos**: Empecé a usar el metodo BEM para los estilos, debo decir que es mi trabajo avanza más rápido cuando tengo una estructura sobre la cual basarme.
+
+**Enlaces al trabajo hecho**: N/A
+
+### Día 16: 22 de Enero, 2018
+
+**Progreso del día**: Publiqué la página tributo en codepen. Comencé con el segundo proyecto, el portafolio
+
+**Pensamientos**: Me cuesta pensar en un diseño, así que en lugar de pensarlo desde cero, recrearé una [plantilla](https://github.com/RyanFitzgerald/devportfolio) que encontré en un repositorio de github.
+
+**Enlaces al trabajo hecho**: [Tribute Page](https://codepen.io/VonHeikemen/pen/WdmVPm)
+
+### Día 17: 23 de Enero, 2018
+
+**Progreso del día**: Intenté usar [Picnic.css](https://picnicss.com/) para emular algunas características de la plantilla que intento recrear.
+
+**Pensamientos**: Aunque sí pude avanzar un poco con el header, no está quedando como me gustaría. Además el framework está haciendo algo de magia que me gustaría hacer por mi cuenta.
+
+**Enlaces al trabajo hecho**: N/A
+
+### Día 18: 24 de Enero, 2018
+
+**Progreso del día**: Empecé de cero la página. Esta vez no usaré un Picnic.css. Aunque sí utilizaré [Normalice.css](https://necolas.github.io/normalize.css/) para tener una mejor base. Logré recrear con cierta fidelidad la primera sección del header sin usar un framework.
+
+**Pensamientos**: Aún lucho con el CSS, pero ahora estoy empezando a memorizar algunos trucos. También estoy agarrando práctica con la estructura de las clases.  
+
+**Enlaces al trabajo hecho**: N/A
