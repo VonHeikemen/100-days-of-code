@@ -159,3 +159,11 @@ Fue un buen día
 **Pensamientos**: Aún lucho con el CSS, pero ahora estoy empezando a memorizar algunos trucos. También estoy agarrando práctica con la estructura de las clases.  
 
 **Enlaces al trabajo hecho**: N/A
+
+### Día 19: 25 de Enero, 2018
+
+**Progreso del día**: Agregué el media query a la sección del header para manejar los estilos a partir de un solo punto de quiebre.
+
+**Pensamientos**: Esta vez mantendré simple los media queries. Sólo uno por ahora. Con eso bastará para manejar las pantallas pequeñas y medianas.
+
+**Enlaces al trabajo hecho**: N/A
