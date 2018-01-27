@@ -167,3 +167,11 @@ Fue un buen día
 **Pensamientos**: Esta vez mantendré simple los media queries. Sólo uno por ahora. Con eso bastará para manejar las pantallas pequeñas y medianas.
 
 **Enlaces al trabajo hecho**: N/A
+
+### Día 20: 26 de Enero, 2018
+
+**Progreso del día**: Empecé a hacer el menú responsive para el portafolio. No pude terminarlo, estaba demasiado cansado para pensar bien. Decidí descansar y ver un [video](https://www.youtube.com/watch?v=bm7RlNEcQM0) de una charla sobre webpack.
+
+**Pensamientos**: De repente webpack me parece más interesante ahora que sé lo que hace. Si no estuviera tan cansado, empezaría a hacer algún plugin inútil sólo para ver si lo que estaba en el video es cierto.
+
+**Enlaces al trabajo hecho**: N/A
