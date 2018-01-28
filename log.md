@@ -175,3 +175,11 @@ Fue un buen día
 **Pensamientos**: De repente webpack me parece más interesante ahora que sé lo que hace. Si no estuviera tan cansado, empezaría a hacer algún plugin inútil sólo para ver si lo que estaba en el video es cierto.
 
 **Enlaces al trabajo hecho**: N/A
+
+### Día 21: 27 de Enero, 2018
+
+**Progreso del día**: Empecé de cero la página del portafolio. Esta vez con el enfoque mobile first. Logré darle forma a las secciones del encabezado, acerca de y proyectos; con sus respectivos media queries para adaptarlo a pantallas grandes y medianas.
+
+**Pensamientos**: Al enfocarme primero en el estilo para dispositivo móviles fue más en cómo debería lucir los elementos. Ya entiendo porque la gente lo hace.
+
+**Enlaces al trabajo hecho**: N/A
