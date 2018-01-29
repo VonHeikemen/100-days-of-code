@@ -180,6 +180,14 @@ Fue un buen día
 
 **Progreso del día**: Empecé de cero la página del portafolio. Esta vez con el enfoque mobile first. Logré darle forma a las secciones del encabezado, acerca de y proyectos; con sus respectivos media queries para adaptarlo a pantallas grandes y medianas.
 
-**Pensamientos**: Al enfocarme primero en el estilo para dispositivo móviles fue más en cómo debería lucir los elementos. Ya entiendo porque la gente lo hace.
+**Pensamientos**: Al enfocarme primero en el estilo para dispositivo móviles fue más concentrarme en cómo deberían lucir los elementos. Ya entiendo porque la gente lo hace.
+
+**Enlaces al trabajo hecho**: N/A
+
+### Día 22: 28 de Enero, 2018
+
+**Progreso del día**: Ya por fin pude hacer el menú responsive para el portafolio. Dividí la etiqueta style en componentes.
+
+**Pensamientos**: Una emergencia del trabajo me impidió avanzar más, pero el menú ya está hecho. Puedo decir que he descubierto lo valioso y útil que es tener una estructura cuando avanzas en un proyecto.
 
 **Enlaces al trabajo hecho**: N/A
