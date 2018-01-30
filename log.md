@@ -191,3 +191,11 @@ Fue un buen día
 **Pensamientos**: Una emergencia del trabajo me impidió avanzar más, pero el menú ya está hecho. Puedo decir que he descubierto lo valioso y útil que es tener una estructura cuando avanzas en un proyecto.
 
 **Enlaces al trabajo hecho**: N/A
+
+### Día 23: 29 de Enero, 2018
+
+**Progreso del día**: Terminé el proyecto del portafolio. Agregué los últimos detalles a los estilos y lo subí a github.
+
+**Pensamientos**: Fue más difícil de lo que pensé, pero pude recrear la página sin usar bootstrap. Lamentablemente usé javascript para completar la funcionalidad del menú responsive, pero bueno, tendré que vivir con eso.
+
+**Enlaces al trabajo hecho**: [Portafolio](https://vonheikemen.github.io/)
