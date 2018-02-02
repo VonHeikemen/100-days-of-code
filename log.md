@@ -199,3 +199,27 @@ Fue un buen día
 **Pensamientos**: Fue más difícil de lo que pensé, pero pude recrear la página sin usar bootstrap. Lamentablemente usé javascript para completar la funcionalidad del menú responsive, pero bueno, tendré que vivir con eso.
 
 **Enlaces al trabajo hecho**: [Portafolio](https://vonheikemen.github.io/)
+
+### Día 24: 30 de Enero, 2018
+
+**Progreso del día**: Avancé hacia el siguiente proyecto de FreeCodeCamp, el generador de frases aleatorias. Tomé un pequeño descanso y en su lugar vi [este video](https://youtu.be/AINnOyUVEyI) acerca de un ejemplo práctico del uso de Ramda.js
+
+**Pensamientos**: Aunque el código final en el video se ve complicado, espero algún día poder obtener suficiente práctica para hacer cosas similares usando el paradigma de la programación funcional. Al principio no lo parece pero creo que este paradigma es más flexible que la programación imperativa que me han enseñado.
+
+**Enlaces al trabajo hecho**: N/A
+
+### Día 25: 31 de Enero, 2018
+
+**Progreso del día**: Empecé usando Vuejs en el proyecto del actual. Encontré una API que pudiera usar en codepen. Hice la mayor parte de la funcionalidad. También, empecé a ver este [playlist](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) que trata de patrones de diseño (vi los primeros dos).
+
+**Pensamientos**: Aunque en un momento quise usar React, no pude, no me parecía natural para resolver este tipo de problema. Para ser honesto pude haberlo hecho sin usar algún framework pero Vue se siente bien en esta situación (completamente innecesario pero se siente bien usarlo).
+
+**Enlaces al trabajo hecho**: N/A
+
+### Día 26: 01 de Febrero, 2018
+
+**Progreso del día**: Fue el turno de los estilos. Eso es todo. Empecé a agregarle el CSS al proyecto.
+
+**Pensamientos**: Está casi terminado, es prácticamente la forma final que tendrá. Faltan unos detalles (los botones) y la funcionalidad del Tweet, después de eso estará terminado. Aún me averguenza el hecho de que me cueste más incorporar los estilos que la misma lógica, pero bueno, para eso están estos proyectos, para practicar.
+
+**Enlaces al trabajo hecho**: N/A
