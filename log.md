@@ -220,6 +220,6 @@ Fue un buen día
 
 **Progreso del día**: Fue el turno de los estilos. Eso es todo. Empecé a agregarle el CSS al proyecto.
 
-**Pensamientos**: Está casi terminado, es prácticamente la forma final que tendrá. Faltan unos detalles (los botones) y la funcionalidad del Tweet, después de eso estará terminado. Aún me averguenza el hecho de que me cueste más incorporar los estilos que la misma lógica, pero bueno, para eso están estos proyectos, para practicar.
+**Pensamientos**: Está casi terminado, es prácticamente la forma final que tendrá. Faltan unos detalles (los botones) y la funcionalidad del Tweet, después de eso estará terminado. Aún me avergüenza el hecho de que me cueste más incorporar los estilos que la misma lógica, pero bueno... para eso están estos proyectos, para practicar.
 
 **Enlaces al trabajo hecho**: N/A
