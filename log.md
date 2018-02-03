@@ -223,3 +223,11 @@ Fue un buen día
 **Pensamientos**: Está casi terminado, es prácticamente la forma final que tendrá. Faltan unos detalles (los botones) y la funcionalidad del Tweet, después de eso estará terminado. Aún me avergüenza el hecho de que me cueste más incorporar los estilos que la misma lógica, pero bueno... para eso están estos proyectos, para practicar.
 
 **Enlaces al trabajo hecho**: N/A
+
+### Día 27: 02 de Febrero, 2018
+
+**Progreso del día**: Otro día de descanso. Aproveché para continuar con el playlist de patrones de diseño. Aprendí sobre el patrón de decorador y el pátron de fábrica.
+
+**Pensamientos**: El último ya lo conocía pero había más qué aprender. El patrón decorador me parece muy inteligente. Pero tengo un problema con el código que es inteligente, produce errores inteligentes. Tal vez no sea el caso con el patrón decorador, tendré que usarlo para descbrir la verdad.
+
+**Enlaces al trabajo hecho**: N/A
