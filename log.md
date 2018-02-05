@@ -226,8 +226,26 @@ Fue un buen día
 
 ### Día 27: 02 de Febrero, 2018
 
-**Progreso del día**: Otro día de descanso. Aproveché para continuar con el playlist de patrones de diseño. Aprendí sobre el patrón de decorador y el pátron de fábrica.
+**Progreso del día**: Otro día de descanso. Aproveché para continuar con el playlist de patrones de diseño. Aprendí sobre el patrón de decorador y el patrón de fábrica.
 
 **Pensamientos**: El último ya lo conocía pero había más qué aprender. El patrón decorador me parece muy inteligente. Pero tengo un problema con el código que es inteligente, produce errores inteligentes. Tal vez no sea el caso con el patrón decorador, tendré que usarlo para descbrir la verdad.
+
+**Enlaces al trabajo hecho**: N/A
+
+### Día 28: 03 de Febrero, 2018
+
+**Progreso del día**: Terminé el proyecto del generador de frases. Vi otro video sobre patrones de diseño. Empecé el proyecto de la aplicación del clima, no avancé mucho, sólo hice petición a la API e inspeccioné la respuesta.
+
+**Pensamientos**: Agregué la función de Tweet al proyecto, lo cual fue más fácil de lo que pensé. Eliminé el código innecesario del javascript.
+
+**Enlaces al trabajo hecho**: [Random Quote](https://codepen.io/VonHeikemen/pen/OQVYBy)
+
+### Día 29: 04 de Febrero, 2018
+
+**Progreso del día**: Continuo trabajando en la aplicación del clima. Empecé a agregarle más funcionalidades y un toque personal. En eso último estuve casi todo el día. Tiene los estilos y encontré los íconos que voy a usar para los estados del tiempo. También busqué otra manera de agregar los recursos externos en CodePen.
+
+**Pensamientos**: Fue un día lento, en parte porque estaba buscando la forma de no usar google drive de nuevo. La buena noticia es que encontré otra forma.
+
+Mientras agregaba las demás funcionalidades me di cuenta que agregarle los íconos en svg que encontré va a hacer que la aplicación se vuelva más compleja.
 
 **Enlaces al trabajo hecho**: N/A
