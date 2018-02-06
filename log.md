@@ -249,3 +249,11 @@ Fue un buen día
 Mientras agregaba las demás funcionalidades me di cuenta que agregarle los íconos en svg que encontré va a hacer que la aplicación se vuelva más compleja.
 
 **Enlaces al trabajo hecho**: N/A
+
+### Día 30: 05 de Febrero, 2018
+
+**Progreso del día**: En la aplicación del clima: Agregué el soporte para elegir los íconos dependiendo del clima, Agregué la conversión entre grados celsius y fahrenheit; Y con eso termino la funcionalidad básica.
+
+**Pensamientos**: Aunque terminé con la funcionalidad básica, en los estilos se ve muy mal. Tal vez algún día vuelva a darle un retoque pero por ahora (y tal vez siempre) se quedará así.  
+
+**Enlaces al trabajo hecho**: [Local Weather App](https://codepen.io/VonHeikemen/pen/ZrWWqp)
